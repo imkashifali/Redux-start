@@ -1,0 +1,5 @@
+1-first step- npm init --yes
+2-npm install redux
+3-npm install axios redux-thunk 
+for data fetching with fake api
+jsonform www.jsonplaceholder.com
